@@ -7,7 +7,7 @@
 - [Banknote Recognition on MCU (M032KG)](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)
   
 ### Computer vision
-- [AICUP Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)
+- [AI CUP Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)
 
 
 ## 📚 Skills
