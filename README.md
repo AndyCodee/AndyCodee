@@ -11,16 +11,9 @@
 
 
 ## 📚 Skills
-<h4>Digital IC Verification</h4>
+<h4>MCU</h4>
 <ol>
-    <li><span style="font-size: smaller;">Develop integrated verification environment with SystemVerilog</span></li>
-    <li><span style="font-size: smaller;">Use random stimulus with functional coverage</span></li>
-</ol>
-
-<h4>Digital IC Desgin</h4>
-<ol>
-    <li><span style="font-size: smaller;">RTL coding, STA, Synthesis</span></li>
-    <li><span style="font-size: smaller;">Gate level to Post- Layout simulation and Cell based APR flow</span></li>
+    <li><span style="font-size: smaller;">Experienced with MCU communication protocols like SPI, I2C, and UART.</span></li>
 </ol>
 
 ## 🔧 Languages
