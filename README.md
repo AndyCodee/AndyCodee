@@ -2,7 +2,7 @@
 - I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
 
 ## 💡 Projects
-### MicroController Unit applications
+### MicroController Unit Applications
 - [Color Recognition on MCU (NUC140)](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)
 - [Banknote Recognition on MCU (M032KG)](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)
   
