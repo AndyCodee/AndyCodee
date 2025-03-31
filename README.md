@@ -1,5 +1,5 @@
 ## Hi I'm Andy Shao 👋
-- 😄 I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
+- I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
 
 ## 💡 Projects
 ### MicroController Unit applications
