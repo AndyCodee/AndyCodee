@@ -6,7 +6,7 @@
 - [Color Recognition on MCU (NUC140)](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)
 - [Banknote Recognition on MCU (M032KG)](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)
   
-### Computer vision
+### Computer Vision
 - [AI CUP Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)
 
 
