@@ -1,30 +1,47 @@
-## Hi I'm Andy Shao 👋
-- I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
+# 👋 Hi, I'm Andy Shao
 
-## 💡 Projects
-### MicroController Unit Applications
-- [Color Recognition on MCU (NUC140)](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)
-- [Banknote Recognition on MCU (M032KG)](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)
-- [LCD-Keypad Guess Number Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)
-  
-### Computer Vision
-- [AI CUP Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)
+🎓 Master's student in **Electrical Engineering** at **National Chung Cheng University**.  
 
+---
 
-## 📚 Skills
-<h4>MCU</h4>
-<ol>
-    <li><span style="font-size: smaller;">Experienced with MCU communication protocols like SPI, I2C, and UART.</span></li>
-</ol>
+## 💼 Featured Projects
 
-## 🔧 Languages
-<h4>C/C++</h4>
-<h4>Python</h4>
-<h4>PHP</h4>
-<h4>SQL</h4>
-<h4>JAVA</h4>
+### 🔧 MCU Applications
+| Project | Description |
+|--------|-------------|
+| [Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition) | Real-time RGB detection via photoresistors; ADC, preprocessing, and embedded NN inference.|
+| [Banknote Recognition on M032KG](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition) | Embedded color pattern classification with time-series sensor data and NN inference. |
+| [LCD-Keypad Guess Number Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad) | Number guessing game using LCD1602 and 4x4 matrix keypad on STC89C52RC |
 
-## Some Statistics About Me
+### 🎯 Computer Vision
+- [AI CUP 2023: Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)  
+  Developed computer vision-based shuttlecock and player tracking system using OpenCV and deep learning.
 
+---
+
+## 🧠 Skills & Technologies
+
+### 👨‍💻 MCU / Embedded
+- Familiar with **8051**, **NUC140**, **M032KG**
+- Proficient in **Keil IDE**, **ISR handling**, **register-level programming**
+- Experience with **SPI**, **I²C**, **UART** communication protocols
+
+### 💻 Programming
+| Language | Usage |
+|---------|--------|
+| `C / C++` | Embedded development & peripheral control |
+| `Python` | Computer vision, automation scripting |
+| `PHP / SQL` | Basic backend & data handling |
+| `Java` | Academic use |
+
+---
+
+## 📊 GitHub Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCodee&layout=compact&exclude_repo=AndyCodee.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Contact
+- GitHub: [@AndyCodee](https://github.com/AndyCodee)
+- Email: *(ouchenhenry@gmail.com)*
