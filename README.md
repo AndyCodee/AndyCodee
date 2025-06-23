@@ -9,8 +9,8 @@
 ### 🔧 MCU Applications
 | Project | Description |
 |--------|-------------|
-| [Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition) | Real-time RGB detection via photoresistors; ADC, preprocessing, and embedded NN inference.|
-| [Banknote Recognition on M032KG](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition) | Embedded color pattern classification with time-series sensor data and NN inference. |
+| [Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition) | Real-time RGB detection via photoresistors; ADC, preprocessing, and embedded NN.|
+| [Banknote Recognition on M032KG](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition) | Embedded color pattern classification with time-series sensor data and embedded NN. |
 | [LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad) | Number guessing game using LCD1602 and 4x4 matrix keypad on STC89C52RC |
 
 ### 🎯 Computer Vision
