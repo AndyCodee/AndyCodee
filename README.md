@@ -8,6 +8,10 @@
 
 ### 🔧 MCU Applications
 
+**[LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)**  
+• Number guessing game implemented with LCD1602 and 4x4 matrix keypad  
+• Developed on STC89C52RC using register-level control
+
 **[Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)**  
 • Real-time RGB detection via photoresistors  
 • Utilizes ADC, signal preprocessing, and embedded neural network for classification  
@@ -16,9 +20,6 @@
 • Sensed RGB via photoresistors and ADC as time-series signals  
 • Preprocessed data and classified with embedded neural network
 
-**[LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)**  
-• Number guessing game implemented with LCD1602 and 4x4 matrix keypad  
-• Developed on STC89C52RC using register-level control and ISR
 
 ---
 
@@ -35,7 +36,7 @@
 ### 👨‍💻 MCU / Embedded
 
 - Familiar with **8051**, **NUC140**, **M032KG**
-- Proficient in **Keil IDE**, **ISR handling**, and **register-level programming**
+- Experienced with **Keil IDE**, **ISR handling**, and **register-level programming**
 - Experienced with communication protocols: **SPI**, **I²C**, **UART**
 
 ### 💻 Programming Languages
