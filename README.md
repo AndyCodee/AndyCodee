@@ -50,7 +50,7 @@
 
 ## 📊 GitHub Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCodee&layout=compact&exclude_repo=AndyCodee.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCodee&layout=compact&exclude_repo=AndyCodee.github.io,RepoGallery,AI-CUP-2023-Badminton&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
