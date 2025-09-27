@@ -8,9 +8,15 @@
 
 ### 🔧 MCU Applications
 
+**[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
+• Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
+• Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
+• Implements **real-time motor control**, IR-triggered emergency stop, and dual-display system monitoring  
+• Highlights **task modularity, queue-based design, and runtime CPU profiling**  
+
 **[LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)**  
 • Number guessing game implemented with LCD1602 and 4x4 matrix keypad  
-• Developed on STC89C52RC using register-level control
+• Developed on STC89C52RC using register-level control  
 
 **[Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)**  
 • Real-time RGB detection via photoresistors  
@@ -18,8 +24,7 @@
 
 **[Banknote Recognition on M032KG](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)**  
 • Sensed RGB via photoresistors and ADC as time-series signals  
-• Preprocessed data and classified with embedded neural network
-
+• Preprocessed data and classified with embedded neural network  
 
 ---
 
@@ -27,7 +32,7 @@
 
 **[AI CUP 2023: Badminton Judge System](https://github.com/AndyCodee/AI-CUP-2023-Badminton)**  
 • Developed a vision-based shuttlecock and player tracking system  
-• Used OpenCV and deep learning to automate line judgment in badminton games
+• Used OpenCV and deep learning to automate line judgment in badminton games  
 
 ---
 
@@ -35,16 +40,16 @@
 
 ### 👨‍💻 MCU / Embedded
 
-- Familiar with **8051**, **NUC140**, **M032KG**
-- Experienced with **Keil IDE**, **ISR handling**, and **register-level programming**
-- Experienced with communication protocols: **SPI**, **I²C**, **UART**
+- Familiar with **8051**, **NUC140**, **M032KG**, **STM32F103**  
+- Experienced with **FreeRTOS**, **Keil IDE**, **ISR handling**, and **register-level programming**  
+- Experienced with communication protocols: **SPI**, **I²C**, **UART**, **ADC**, **PWM**  
 
 ### 💻 Programming Languages
 
-- `C / C++`: Embedded development, hardware control
-- `Python`: Computer vision, automation scripting
-- `PHP / SQL`: Basic backend and data handling
-- `Java`: Academic use
+- `C / C++`: Embedded development, hardware control  
+- `Python`: Computer vision, automation scripting  
+- `PHP / SQL`: Basic backend and data handling  
+- `Java`: Academic use  
 
 ---
 
@@ -56,5 +61,5 @@
 
 ## 📫 Contact
 
-- GitHub: [@AndyCodee](https://github.com/AndyCodee)
+- GitHub: [@AndyCodee](https://github.com/AndyCodee)  
 - Email: **ouchenhenry@gmail.com**
