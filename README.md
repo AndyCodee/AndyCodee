@@ -8,15 +8,17 @@
 
 ### 🔧 MCU Applications
 
+**[STM32 External Flash Bootloader (STM32F103 + W25Q64)](https://github.com/AndyCodee/STM32-External-Flash-Bootloader)**  
+• Custom **bootloader** capable of loading multiple firmware images from external **W25Q64 NOR Flash** into STM32 internal Flash  
+• Implements **LCD9648 menu UI** with key input for selecting repos (Repo1, Repo2, …)  
+• Uses **hardware CRC32** verification to ensure image integrity before execution  
+• Supports **multi-firmware management**, safe update, and clean handover via **vector table relocation**  
+
 **[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
 • Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
 • Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
 • Implements **real-time motor control**, IR-triggered emergency stop, and dual-display system monitoring  
 • Highlights **task modularity, queue-based design, and runtime CPU profiling**  
-
-**[LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)**  
-• Number guessing game implemented with LCD1602 and 4x4 matrix keypad  
-• Developed on STC89C52RC using register-level control  
 
 **[Color Recognition on NUC140](https://github.com/AndyCodee/NuMicro-NUC140_Color_Recognition)**  
 • Real-time RGB detection via photoresistors  
@@ -25,6 +27,10 @@
 **[Banknote Recognition on M032KG](https://github.com/AndyCodee/NuMaker-M032KG_Banknote_Recognition)**  
 • Sensed RGB via photoresistors and ADC as time-series signals  
 • Preprocessed data and classified with embedded neural network  
+
+**[LCD-Keypad GuessNum Game (8051)](https://github.com/AndyCodee/GuessNumber-LCD-Keypad)**  
+• Number guessing game implemented with LCD1602 and 4x4 matrix keypad  
+• Developed on STC89C52RC using register-level control  
 
 ---
 
@@ -55,7 +61,7 @@
 
 ## 📊 GitHub Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCodee&layout=compact&exclude_repo=AndyCodee.github.io,RepoGallery,AI-CUP-2023-Badminton&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCodee&layout=compact&exclude_repo=AndyCodee.github.io,RepoGallery&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
