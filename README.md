@@ -4,11 +4,22 @@
 
 ---
 
+## 🚀 Core Competencies
+
+- **ARM Cortex-M3 expertise**: Bare-metal to FreeRTOS development on STM32F103  
+- **Multi-platform MCU experience**: 8051, Nuvoton (NUC140, M032KG), STM32F1 series  
+- **Bootloader & image management**: External **NOR Flash (W25Q64)** → internal Flash, CRC32 validation, vector table relocation  
+- **FreeRTOS system design**: Task/queue architecture, ISR handling, timing, runtime profiling
+- **Peripheral integration**: SPI, I²C (incl. bit-bang), UART, ADC, PWM, EXTI, GPIO modes with custom drivers  
+- **Clean C/C++ firmware**: Maintainable structure, modular design, and project-oriented documentation/diagrams  
+
+---
+
 ## 💼 Featured Projects
 
 ### 🔧 MCU Applications
 
-**[STM32 External Flash Bootloader (STM32F103 + W25Q64)](https://github.com/AndyCodee/STM32-External-Flash-Bootloader)**  
+**[STM32 External NOR Flash Bootloader (STM32F103 + W25Q64)](https://github.com/AndyCodee/STM32-External-NOR-Flash-Bootloader)**  
 • Custom **bootloader** capable of loading multiple firmware images from external **W25Q64 NOR Flash** into STM32 internal Flash  
 • Implements **LCD9648 menu UI** with key input for selecting repos (Repo1, Repo2, …)  
 • Uses **hardware CRC32** verification to ensure image integrity before execution  
@@ -42,20 +53,20 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Skills & Technologies  
 
-### 👨‍💻 MCU / Embedded
+### 🔑 Core Strengths – MCU / Embedded
+- **MCUs**: 8051, Nuvoton (NUC140 / M032KG – Cortex-M0), STM32F103 – Cortex-M3
+- **RTOS & Firmware**: FreeRTOS design with tasks, queues, mutexes, semaphores, task notifications, and timers; ISR handling and runtime profiling
+- **Development Tools**: Keil MDK-ARM, register-level programming  
+- **Peripherals & Protocols**: SPI, I²C, UART, ADC, PWM, GPIO/EXTI configuration  
+  - Applied in **NOR Flash (W25Q64) driver development** and external image management  
 
-- Familiar with **8051**, **NUC140**, **M032KG**, **STM32F103**  
-- Experienced with **FreeRTOS**, **Keil IDE**, **ISR handling**, and **register-level programming**  
-- Experienced with communication protocols: **SPI**, **I²C**, **UART**, **ADC**, **PWM**  
-
-### 💻 Programming Languages
-
-- `C / C++`: Embedded development, hardware control  
-- `Python`: Computer vision, automation scripting  
-- `PHP / SQL`: Basic backend and data handling  
-- `Java`: Academic use  
+### 🛠 Supporting Skills – Software
+- **C / C++**: Embedded systems, hardware abstraction, driver development  
+- **Python**: Computer vision, ML prototyping, automation scripting  
+- **PHP / SQL**: Basic backend development & data management  
+- **Java**: Academic coursework, algorithm implementation  
 
 ---
 
