@@ -7,9 +7,9 @@
 ## 🚀 Core Competencies
 
 - **ARM Cortex-M3 expertise**: Bare-metal to FreeRTOS development on STM32F103  
-- **Multi-platform MCU experience**: 8051, Nuvoton (NUC140, M032KG), STM32F1 series  
+- **Multi-platform MCU experience**: 8051, Nuvoton (NUC140, M032KG – Cortex-M0), STM32F103C8T6 – Cortex-M3
 - **Bootloader & image management**: External **NOR Flash (W25Q64)** → internal Flash, CRC32 validation, vector table relocation  
-- **FreeRTOS system design**: Task/queue architecture, ISR handling, timing, runtime profiling
+- **FreeRTOS system design**: tasks, queues, mutexes, semaphores, task notifications, and timers; ISR handling and runtime profiling
 - **Peripheral integration**: SPI, I²C (incl. bit-bang), UART, ADC, PWM, EXTI, GPIO modes with custom drivers  
 - **Clean C/C++ firmware**: Maintainable structure, modular design, and project-oriented documentation/diagrams  
 
