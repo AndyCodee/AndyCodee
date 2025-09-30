@@ -31,6 +31,12 @@
 • Generates a structured **metadata table** (ValidFlag, Address, Size, CRC32) for Bootloader validation  
 • Demonstrates **low-level Flash operations** (erase, program, verify) and **system-level integration** with Bootloader  
 
+**[FlashViewer (STM32F103 + W25Q64)](https://github.com/AndyCodee/FlashViewer)**  
+• Visualization tool for **external NOR Flash (W25Q64)** contents via STM32F103  
+• Provides **hex + ASCII memory dump** over USART2, similar to a PC `hexdump` utility  
+• Useful for verifying **bootloader uploads**, debugging firmware storage, and inspecting external flash data  
+• Implements **custom SPI1 + USART2 drivers** for bare-metal flash communication
+
 **[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
 • Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
 • Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
