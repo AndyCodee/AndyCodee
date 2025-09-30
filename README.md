@@ -27,6 +27,12 @@
 • Uses **hardware CRC32** verification to ensure image integrity before execution  
 • Supports **multi-firmware management**, safe update, and clean handover via **vector table relocation**  
 
+**[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
+• Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
+• Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
+• Implements **real-time motor control**, IR-triggered emergency stop, and dual-display system monitoring  
+• Highlights **task modularity, queue-based design, and runtime CPU profiling**  
+
 **[ExtFlashUploader (STM32F103 + W25Q64)](https://github.com/AndyCodee/ExtFlashUploader)**  
 • Bare-metal firmware to **upload internal Flash applications** into external **W25Q64 NOR Flash**  
 • Performs **sector erase (4KB)** and **page programming (256B)** with memory-mapped access  
@@ -38,12 +44,6 @@
 • Provides **hex + ASCII memory dump** over USART2, similar to a PC `hexdump` utility  
 • Useful for verifying **bootloader uploads**, debugging firmware storage, and inspecting external flash data  
 • Implements **custom SPI1 + USART2 drivers** for bare-metal flash communication
-
-**[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
-• Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
-• Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
-• Implements **real-time motor control**, IR-triggered emergency stop, and dual-display system monitoring  
-• Highlights **task modularity, queue-based design, and runtime CPU profiling**  
 
 ---
 
