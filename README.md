@@ -25,6 +25,12 @@
 • Uses **hardware CRC32** verification to ensure image integrity before execution  
 • Supports **multi-firmware management**, safe update, and clean handover via **vector table relocation**  
 
+**[ExtFlashUploader (STM32F103 + W25Q64)](https://github.com/AndyCodee/ExtFlashUploader)**  
+• Bare-metal firmware to **upload internal Flash applications** into external **W25Q64 NOR Flash**  
+• Performs **sector erase (4KB)** and **page programming (256B)** with memory-mapped access  
+• Generates a structured **metadata table** (ValidFlag, Address, Size, CRC32) for Bootloader validation  
+• Demonstrates **low-level Flash operations** (erase, program, verify) and **system-level integration** with Bootloader  
+
 **[Embedded-FreeRTOS-SensorHub (STM32F103)](https://github.com/AndyCodee/Embedded-FreeRTOS-SensorHub)**  
 • Professional firmware project with **FreeRTOS** task scheduling on STM32F103  
 • Six concurrent tasks: OLED, LCD Monitor, Rotary Encoder, Motor, IR Sensor, DHT11  
